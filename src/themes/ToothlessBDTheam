@@ -1,0 +1,20 @@
+---
+title: {Theme Name}
+author: {Author Name}
+description: This is a toothless theam for thoes HTD fans
+download:https://i.pinimg.com/originals/9c/1c/01/9c1c017e18613250d1ce8e63c72bcbb5.jpg
+github_profile_url: https://github.com/{Author Name}/
+github_source_url:
+support:
+discord_server:
+demo: https://raw.githack.com
+thumbnail:
+previews: [https://i.pinimg.com/originals/9c/1c/01/9c1c017e18613250d1ce8e63c72bcbb5.jpg]
+status:Updated
+auto:true
+featured: 
+style: dark
+tags: [HTD]
+ghcommentid: # DON'T CHANGE
+layout: product # DON'T CHANGE
+---
